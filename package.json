@@ -1,22 +1,14 @@
 {
-  "name": "generator-generator",
+  "name": "generator-ifs",
   "version": "1.1.0",
-  "description": "Generate a Yeoman generator",
-  "author": "Yeoman team",
+  "description": "Generate a Yeoman ifs",
+  "author": "dinghx14714",
   "files": [
     "app",
     "subgenerator"
   ],
-  "keywords": [
-    "yeoman-generator",
-    "yeoman",
-    "generator",
-    "inception",
-    "init",
-    "create",
-    "boilerplate"
-  ],
-  "repository": "yeoman/generator-generator",
+  "keywords": [],
+  "repository": "huanxinding/generator-ifs",
   "scripts": {
     "test": "gulp",
     "prepublish": "gulp prepublish"
