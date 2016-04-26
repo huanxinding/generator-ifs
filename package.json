@@ -1,7 +1,7 @@
 {
   "name": "generator-ifs",
   "version": "1.1.0",
-  "description": "Generate a Yeoman ifs",
+  "description": "Web纯前端项目模板（bootstrap+angularjs）生成器",
   "author": "dinghx14714",
   "files": [
     "app",
@@ -9,13 +9,8 @@
   ],
   "keywords": [],
   "repository": "huanxinding/generator-ifs",
-  "scripts": {
-    "test": "gulp",
-    "prepublish": "gulp prepublish"
-  },
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {},
   "license": "MIT"
 }
